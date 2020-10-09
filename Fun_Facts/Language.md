@@ -14,7 +14,7 @@
 
 #### Spoken Language
 
-* Ye is pronounced "The". Y was used by typesetters to represent the þ symbol, called the “Thorn” (“þorn”) when printing on german made printing presses. This sound later was represented as “th” instead. [↗](https://www.youtube.com/watch?v=SVWvkZbhgAc)
+* Ye is pronounced "The". Y was used by typesetters to represent the þ symbol, called the “Thorn” (“þorn”), on German made printing presses. This sound later was represented as “th” instead. [↗](https://www.youtube.com/watch?v=SVWvkZbhgAc)
 
 * When shown a picture of a spiky shape and a rounded shape and asked to name one “Kiki” and the other “Bouba” the vast majority of people, regardless of language, will call the former Kiki and the latter Bouba. [↗](https://www.youtube.com/watch?v=1TDIAObsqcs)
 
