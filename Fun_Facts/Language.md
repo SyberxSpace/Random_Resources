@@ -1,7 +1,7 @@
 # Language Facts
 *These facts relate to some element of writing, language, communication, or similar.*
 
-#### Written/Typed Language
+### Written/Typed Language
 
 * The octothorpe is called the “pound sign” because the symbol originates from the abbreviation for weight *libra pondo*, originally written as ℔. When written quickly in cursive this symbol morphed into the “hash” we love today. The British symbol £ also originates from this phrase, but is instead based on the L at the beginning. [↗](https://www.newyorker.com/books/page-turner/the-ancient-roots-of-punctuation)[↗](https://99percentinvisible.org/episode/octothorpe)
 ![Octothorpe Transition](Images/Octothorpe_Transition.png?s=200)
@@ -12,7 +12,7 @@
 
 * The dot on the lowercase i is called a tittle. The same is true for the j. [↗](https://en.wikipedia.org/wiki/Tittle)
 
-#### Spoken Language
+### Spoken Language
 
 * Ye is pronounced "The". Y was used by typesetters to represent the þ symbol, called the “Thorn” (“þorn”), on German made printing presses. This sound later was represented as “th” instead. [↗](https://www.youtube.com/watch?v=SVWvkZbhgAc)
 

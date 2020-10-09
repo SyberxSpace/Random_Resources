@@ -1,7 +1,7 @@
 # Random_Resources
 A collection of things that don't quite need their own Repo.
 
-#### Fun Facts
+### Fun Facts
 
 * [Language ↗](Fun_Facts/Language.md)
 * [Vocabulary ↗](Fun_Facts/Words.md)

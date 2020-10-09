@@ -1,7 +1,7 @@
 # Words
 *These words are fun and fairly uncommon but useful once known.*
 
-#### Making and Coding
+### Making and Coding
 
 **Bodge** - a British word meaning "to patch together temporarily". Something bodged is put together clumsily and inelegantly, but fully operable given upkeep and maintenance. Be proud of these but do not allow them to extend beyond small scale endeavors. [↗](https://www.youtube.com/watch?v=lIFE7h3m40U)
 
